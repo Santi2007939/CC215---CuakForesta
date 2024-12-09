@@ -1,0 +1,8 @@
+Recuerdos de un pasado juntos
+Jugador: 350 150
+Contaminantes: 2 2 1
+90 350
+660 350
+90 200
+660 500
+370 350

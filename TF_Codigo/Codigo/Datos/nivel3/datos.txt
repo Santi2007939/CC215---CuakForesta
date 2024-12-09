@@ -1,0 +1,6 @@
+Amigo...
+Jugador: 350 150
+Contaminantes: 2 0 1
+90 220
+660 470
+370 330

@@ -1,0 +1,6 @@
+Ojos al acecho
+Jugador: 350 150
+Contaminantes: 2 1 0
+90 330
+660 330
+370 330

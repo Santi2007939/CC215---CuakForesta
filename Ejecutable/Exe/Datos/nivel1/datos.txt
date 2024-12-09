@@ -1,0 +1,6 @@
+La normalidad mata!
+Jugador: 350 150
+Contaminantes: 3 0 0
+90 220
+660 220
+370 470

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="EditorMapah.cpp" />
+    <ClCompile Include="FormCreditos.cpp" />
+    <ClCompile Include="FormInstrucciones.cpp" />
+    <ClCompile Include="FormMapa.cpp" />
+    <ClCompile Include="Juego.cpp" />
+    <ClCompile Include="JuegoMenu.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Aliado.h" />
+    <ClInclude Include="Arboles.h" />
+    <ClInclude Include="Area.h" />
+    <ClInclude Include="ArrAliado.h" />
+    <ClInclude Include="ArrBala.h" />
+    <ClInclude Include="ArrBalaJugador.h" />
+    <ClInclude Include="ArrContaminante.h" />
+    <ClInclude Include="ArrDatoRecurso.h" />
+    <ClInclude Include="ArrRecurso.h" />
+    <ClInclude Include="Bala.h" />
+    <ClInclude Include="Biblioteca.h" />
+    <ClInclude Include="Contaminante.h" />
+    <ClInclude Include="Controladora.h" />
+    <ClInclude Include="Dato.h" />
+    <ClInclude Include="DatoDibujo.h" />
+    <ClInclude Include="DatoEntidad.h" />
+    <ClInclude Include="DatoBala.h" />
+    <ClInclude Include="DatoTexto.h" />
+    <ClInclude Include="DatoVida.h" />
+    <ClInclude Include="EditorMapah.h" />
+    <ClInclude Include="Enemigo.h" />
+    <ClInclude Include="Enemigo1.h" />
+    <ClInclude Include="Enemigo2.h" />
+    <ClInclude Include="Enemigo3.h" />
+    <ClInclude Include="Entidad.h" />
+    <ClInclude Include="EntidadAvanzada.h" />
+    <ClInclude Include="FormCreditos.h" />
+    <ClInclude Include="FormInstrucciones.h" />
+    <ClInclude Include="FormMapa.h" />
+    <ClInclude Include="FormNombre.h" />
+    <ClInclude Include="FormularioGameOver.h" />
+    <ClInclude Include="GestorArchivosGenerador.h" />
+    <ClInclude Include="GestorArchivos.h" />
+    <ClInclude Include="GestorArchivosBinario.h" />
+    <ClInclude Include="GestorArchivosGuardado.h" />
+    <ClInclude Include="Nivel.h" />
+    <ClInclude Include="Juego.h" />
+    <ClInclude Include="JuegoMenu.h" />
+    <ClInclude Include="Jugador.h" />
+    <ClInclude Include="PanelPausa.h" />
+    <ClInclude Include="Persona.h" />
+    <ClInclude Include="Personaje.h" />
+    <ClInclude Include="PersonajeA.h" />
+    <ClInclude Include="Ranking.h" />
+    <ClInclude Include="Recurso.h" />
+    <ClInclude Include="SeccionArboles.h" />
+    <ClInclude Include="ZonaArboles.h" />
+    <ClInclude Include="PoderBalasInfinitas.h" />
+    <ClInclude Include="PoderRecursos.h" />
+    <ClInclude Include="PoderVidas.h" />
+    <ClInclude Include="FormBase.h" />
+    <ClInclude Include="DatoArbol.h" />
+  </ItemGroup>
+</Project>

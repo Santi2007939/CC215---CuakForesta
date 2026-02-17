@@ -3,6 +3,16 @@ En este juego, el objetivo es recolectar recursos para reforestar el 70% de los 
    
 [![CuakForesta](https://img.youtube.com/vi/aZLdiBTL39s/hqdefault.jpg)](https://youtu.be/aZLdiBTL39s)
 
+## ⚠️ Disclaimer / Integridad académica
+
+Este repositorio es público con fines educativos y de referencia.
+
+- Se prohíbe el plagio total o parcial y cualquier uso que vulnere el Código de Integridad/Probidad Académica de la UPC o de cualquier otra institución educativa.
+- Puedes estudiar el código y reutilizar ideas o fragmentos no evaluados citando la fuente. Todo trabajo evaluable debe ser de autoría propia.
+- Los autores no asumen responsabilidad por usos indebidos. Cualquier fork o contribución debe respetar estas condiciones.
+
+Nota legal: este repositorio se publica con licencias de uso no comercial (ver enlaces arriba).
+
 ## Cómo jugar :video_game:
 1. Se inicia el nivel.
 2. Se debe recolectar los recursos y acercarse a la zona deseada para reforestar, esto permitirá que los botones se activen y el contorno rojo permitirá saber qué recurso falta.
